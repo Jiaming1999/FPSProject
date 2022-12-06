@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/ModularBuildingSet
+Content/Downtown_West
+Content/FirstPersonBP/Maps/Demo_Scene_BuiltData.uasset
+*.zip
