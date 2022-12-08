@@ -9,4 +9,19 @@ https://www.unrealengine.com/marketplace/en-US/product/modular-building-set?sess
 
 BP_PC coming from https://github.com/Ujimatsu/ADV_FPStemplate
 
+Base Map File:
+- Content/FirstPersonBP/Maps/Menu
+
+Controls:
+WASD - Input
+Mouse - Camera Input + aim + shoot
+Tab - Inventory
+E - Eat
+R - Reload
+G - Grenade
+V - Melee
+
+Goal:
+find two keys and get to the golden coin
+
 Developed with Unreal Engine 4
