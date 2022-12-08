@@ -1,9 +1,9 @@
 # FPSProject
 
-## Assets used
-https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-effects
-https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack
-https://www.unrealengine.com/marketplace/en-US/product/fps-weapon-bundle
+## IMPORTANT
+Please add these two asset packs to the project. Too big to add on repo
+https://www.unrealengine.com/marketplace/en-US/product/6bb93c7515e148a1a0a0ec263db67d5b
+https://www.unrealengine.com/marketplace/en-US/product/modular-building-set?sessionInvalidated=true
 
 
 Developed with Unreal Engine 4
